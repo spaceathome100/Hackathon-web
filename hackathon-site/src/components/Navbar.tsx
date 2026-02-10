@@ -19,7 +19,7 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 right-0 z-50 glass-card border-b border-border/50">
       <div className="container mx-auto flex items-center justify-between py-4">
         <a href="#home" className="font-display text-lg font-bold gradient-text">
-          Genesis SDG
+          TechHacks 2.0
         </a>
 
         {/* Desktop */}

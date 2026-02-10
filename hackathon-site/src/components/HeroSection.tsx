@@ -66,9 +66,9 @@ const HeroSection = () => {
           transition={{ duration: 0.7, delay: 0.1 }}
           className="font-display text-4xl sm:text-5xl md:text-7xl font-bold leading-tight mb-6"
         >
-          Genesis SDG Innovation
+          National Level Hackathon
           <br />
-          <span className="gradient-text">Hackathon 2026</span>
+          <span className="gradient-text">TechHacks 2.0 </span>
         </motion.h1>
 
         <motion.p

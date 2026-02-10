@@ -9,8 +9,8 @@ const features = [
   },
   {
     icon: Users,
-    title: "In Collaboration with Sristi Foundation",
-    description: "Partnering with Sristi Foundation to empower grassroots communities through technology.",
+    title: "In Collaboration with Genesys",
+    description: "Partnering with Genesys to  communities through technology.",
   },
   {
     icon: Globe,
@@ -34,9 +34,9 @@ const AboutSection = () => {
             About the <span className="gradient-text">Hackathon</span>
           </h2>
           <p className="text-muted-foreground max-w-3xl mx-auto text-base md:text-lg leading-relaxed">
-            Genesis SDG Innovation Hackathon 2026 is a national-level 24-hour hackathon focused on
+            TechHacks 2.0 Innovation Hackathon 2026 is a national-level 24-hour hackathon focused on
             building innovative solutions for real-world challenges aligned with the UN Sustainable
-            Development Goals. In collaboration with Sristi Foundation, participants will tackle
+            Development Goals. In Collaboration with Genesys, participants will tackle
             problems in health, education, sustainability, and community development.
           </p>
         </motion.div>

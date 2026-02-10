@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto">
         <div className="grid sm:grid-cols-3 gap-8 mb-8">
           <div>
-            <h3 className="font-display text-lg font-bold gradient-text mb-3">Genesis SDG</h3>
+            <h3 className="font-display text-lg font-bold gradient-text mb-3">TechHacks 2.0</h3>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Innovating for a sustainable future through technology and collaboration.
             </p>
@@ -15,11 +15,11 @@ const Footer = () => {
           <div>
             <h4 className="font-display font-semibold mb-3 text-sm">Contact</h4>
             <a
-              href="mailto:contact@genesishackathon.org"
+              href="mailto:harisudhan@apesxflowtechnologies.com"
               className="text-muted-foreground text-sm hover:text-primary transition-colors flex items-center gap-2"
             >
               <Mail className="w-4 h-4" />
-              contact@genesishackathon.org
+              harisudhan@apesxflowtechnologies.com
             </a>
           </div>
 
@@ -41,10 +41,10 @@ const Footer = () => {
 
         <div className="border-t border-border/50 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-muted-foreground text-xs">
-            © 2026 Genesis SDG Innovation Hackathon. All rights reserved.
+            © 2026 TechHacks 2.0 Innovation Hackathon. All rights reserved.
           </p>
           <p className="text-muted-foreground text-xs">
-            In collaboration with Sristi Foundation
+            In Collaboration with Genesys
           </p>
         </div>
       </div>
