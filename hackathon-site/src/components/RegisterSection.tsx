@@ -20,7 +20,7 @@ const RegisterSection = () => {
             Participants must register through the official Google Form. Secure your spot now and be
             part of the change!
           </p>
-          <a href="https://forms.google.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://forms.gle/r71NPeyCgtjbKpsf9" target="_blank" rel="noopener noreferrer">
             <Button size="lg" className="gradient-primary text-primary-foreground font-display font-semibold px-8 py-6 text-base animate-pulse-glow rounded-lg gap-2">
               Register Now
               <ExternalLink className="w-4 h-4" />
