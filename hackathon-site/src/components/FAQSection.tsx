@@ -9,27 +9,27 @@ import {
 const faqs = [
   {
     q: "Who can participate?",
-    a: "The hackathon is open to all students, developers, and innovators across India. Teams of 2-4 members are encouraged.",
+    a: "The hackathon is open to all students, developers, and innovators across India. Teams of 2-4 members are compulsory.",
   },
   {
     q: "Is there a registration fee?",
-    a: "Details regarding registration fees will be announced on the official registration page. Stay tuned!",
+    a: "Round 1 (Proposal Submission) is free for all teams. However, teams shortlisted for the Grand Finale at Genesys will be required to pay a participation fee to confirm their slot. This fee covers access to the campus, mentorship, and resources.",
   },
   {
-    q: "What should I bring?",
-    a: "Bring your laptop, charger, and any hardware you might need. Food and refreshments will be provided during the event.",
+    q: "What is the 'On-the-Spot' challenge?",
+    a: "While Round 1 allows you to choose an SDG problem statement in advance, Round 2 (Grand Finale) will provide a specific, secret challenge 'on the spot' at the Genesys campus to test your real-time problem-solving skills.",
   },
   {
-    q: "Can I participate solo?",
-    a: "While team participation is encouraged, solo participants are welcome. You can also find teammates at the event.",
+    q: "What should I bring to the Grand Finale?",
+    a: "Shortlisted teams should bring their laptops, chargers, and any hardware prototypes. Food, refreshments, and a high-energy hacking environment will be provided by the organizers.",
   },
   {
-    q: "What technologies can we use?",
-    a: "You are free to use any programming language, framework, or tool. The focus is on building impactful solutions.",
+    q: "How does the evaluation work?",
+    a: "Round 1 is judged on ideation and feasibility. The Grand Finale is judged by an industry jury on technical implementation, design thinking, and the 'readiness' of your solution.",
   },
   {
     q: "Will there be mentors?",
-    a: "Yes! Industry experts and mentors from Sristi Foundation will be available throughout the hackathon to guide teams.",
+    a: "Yes! Industry experts from Genesys and Sristi Foundation will be available during the Grand Finale to provide technical and strategic mentorship.",
   },
 ];
 

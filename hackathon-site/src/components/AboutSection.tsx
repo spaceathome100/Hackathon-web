@@ -33,12 +33,12 @@ const AboutSection = () => {
           <h2 className="font-display text-3xl md:text-5xl font-bold mb-4">
             About the <span className="gradient-text">Hackathon</span>
           </h2>
-          <p className="text-muted-foreground max-w-3xl mx-auto text-base md:text-lg leading-relaxed">
-            TechHacks 2.0 Innovation Hackathon 2026 is a national-level 24-hour hackathon focused on
-            building innovative solutions for real-world challenges aligned with the UN Sustainable
-            Development Goals. In Collaboration with Genesys, participants will tackle
-            problems in health, education, sustainability, and community development.
-          </p>
+         <p className="text-muted-foreground max-w-3xl mx-auto text-base md:text-lg leading-relaxed">
+  Building on the momentum of a 40-team debut, Tech Hacks 2.0 returns to Genesys. 
+  This isn't just a coding competition; it is an incubator for student innovators 
+  dedicated to bridging the gap between abstract problem-solving and tangible 
+  impact by aligning with the <strong>United Nations SDGs.</strong>
+</p>
         </motion.div>
 
         <div className="grid md:grid-cols-3 gap-6">
