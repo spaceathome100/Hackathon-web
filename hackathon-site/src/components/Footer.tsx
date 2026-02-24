@@ -15,11 +15,11 @@ const Footer = () => {
           <div>
             <h4 className="font-display font-semibold mb-3 text-sm">Contact</h4>
             <a
-              href="mailto:harisudhan@apesxflowtechnologies.com"
+              href="mailto:techhacks2k26@gmail.com"
               className="text-muted-foreground text-sm hover:text-primary transition-colors flex items-center gap-2"
             >
               <Mail className="w-4 h-4" />
-              harisudhan@apesxflowtechnologies.com
+              techhacks2k26@gmail.com
             </a>
           </div>
 
